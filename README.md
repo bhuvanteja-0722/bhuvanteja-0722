@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- MOTION HERO: self-hosted animated SVG -->
-<img src="./assets/hero.svg?v=4" alt="Bhuvan Teja anime multiverse developer hero" width="100%"/>
+<img src="./assets/desk-motion.svg?v=1" alt="Animated anime multiverse developer desk featuring Bhuvan Teja" width="100%"/>
 
 <br/><br/>
 
