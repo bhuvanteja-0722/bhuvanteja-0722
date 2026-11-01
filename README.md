@@ -53,7 +53,7 @@
 
 <br/><br/>
 
-<img src="./output/github-snake.svg" alt="GitHub contribution snake animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/bhuvanteja-0722/bhuvanteja-0722/output/github-snake.svg" alt="GitHub contribution snake animation" width="100%"/>
 
 <br/><br/>
 
