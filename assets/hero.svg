@@ -1,1 +1,63 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390"><defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080B16"/><stop offset=".55" stop-color="#21100D"/><stop offset="1" stop-color="#3B160D"/></linearGradient><linearGradient id="fire"><stop stop-color="#FFB02E"/><stop offset=".5" stop-color="#FF6A00"/><stop offset="1" stop-color="#C62828"/></linearGradient><pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#F97316" stroke-opacity=".12"/></pattern></defs><rect width="1200" height="390" rx="22" fill="url(#bg)"/><rect width="1200" height="390" rx="22" fill="url(#grid)"/><g opacity=".8" fill="none" stroke="url(#fire)"><circle cx="950" cy="190" r="142" stroke-width="2" stroke-dasharray="8 12"><animateTransform attributeName="transform" type="rotate" from="0 950 190" to="360 950 190" dur="35s" repeatCount="indefinite"/></circle><circle cx="950" cy="190" r="110" stroke-width="1.5"/><path d="M950 34L980 160 1106 190 980 220 950 346 920 220 794 190 920 160Z" stroke-width="2"/></g><g transform="translate(950 190)"><circle r="78" fill="#F97316" opacity=".12"/><path d="M-63 -48L-20 -85 2 -59 27 -88 62 -48 48 -8 62 52 20 72 -12 58 -51 72 -63 25Z" fill="#F59E0B" stroke="#FED7AA" stroke-width="3"/><path d="M-48 -17Q0 -48 48 -17L39 33Q0 66 -39 33Z" fill="#F8C18B"/><path d="M-54 -25Q0 -48 54 -25L48 -7Q0 -23 -48 -7Z" fill="#475569" stroke="#CBD5E1" stroke-width="3"/><path d="M-15 -13L-3 -4M15 -13L3 -4" stroke="#111827" stroke-width="5"/><path d="M-14 24Q0 34 14 24" fill="none" stroke="#7C2D12" stroke-width="3"/><path d="M-9 -2Q0 -12 9 -2" fill="none" stroke="#111827" stroke-width="2"/></g><text x="70" y="112" fill="#FDBA74" font-family="monospace" font-size="16" letter-spacing="4">HIDDEN LEAF // DEVELOPER PROFILE</text><text x="66" y="190" fill="#FFF7ED" font-family="Arial" font-weight="800" font-size="58">BHUVAN TEJA</text><text x="72" y="232" fill="#FED7AA" font-family="Arial" font-size="25" letter-spacing="4">PONAKALA</text><path d="M72 258H520" stroke="#9A3412"/><text x="72" y="298" fill="#FDBA74" font-family="monospace" font-size="16">AI &amp; DATA SCIENCE NINJA IN TRAINING</text><text x="72" y="332" fill="#D6B8A5" font-family="monospace" font-size="13">BENGALURU, INDIA // BMSCE</text><rect x="18" y="18" width="1164" height="354" rx="16" fill="none" stroke="#F97316" stroke-opacity=".55"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="560" viewBox="0 0 1280 560">
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#070914"/><stop offset=".55" stop-color="#17102b"/><stop offset="1" stop-color="#26100d"/></linearGradient>
+ <linearGradient id="fire"><stop stop-color="#ffb02e"/><stop offset=".5" stop-color="#ff6a00"/><stop offset="1" stop-color="#e33b54"/></linearGradient>
+ <linearGradient id="blue"><stop stop-color="#37c8ff"/><stop offset="1" stop-color="#8666ff"/></linearGradient>
+ <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#a78bfa" stroke-opacity=".12"/></pattern>
+ <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1280" height="560" rx="24" fill="url(#bg)"/><rect width="1280" height="560" rx="24" fill="url(#grid)"/>
+<g opacity=".25"><path d="M0 0L250 0 0 440Z" fill="url(#fire)"/><path d="M1280 0L1030 0 1280 440Z" fill="url(#blue)"/></g>
+<!-- rotating anime-world rings -->
+<g fill="none" filter="url(#glow)">
+ <circle cx="1015" cy="252" r="195" stroke="url(#fire)" stroke-width="2" stroke-dasharray="9 16"><animateTransform attributeName="transform" type="rotate" from="0 1015 252" to="360 1015 252" dur="32s" repeatCount="indefinite"/></circle>
+ <circle cx="1015" cy="252" r="156" stroke="url(#blue)" stroke-width="1.5" stroke-dasharray="3 12"><animateTransform attributeName="transform" type="rotate" from="360 1015 252" to="0 1015 252" dur="24s" repeatCount="indefinite"/></circle>
+ <path d="M1015 24L1060 203 1240 252 1060 301 1015 480 970 301 790 252 970 203Z" stroke="#ff8a29" stroke-width="2" opacity=".8"/>
+</g>
+<!-- male shinobi avatar -->
+<g transform="translate(1015 250)">
+ <circle r="112" fill="#0d1326" stroke="#ff782e" stroke-width="2"/>
+ <circle r="96" fill="#18213b" stroke="#38bdf8" stroke-opacity=".6"/>
+ <path d="M-82 -28Q-70 -115 0 -112Q80 -104 84 -25L54 -4 35 -37 -12 -54 -50 -20Z" fill="#12101b" stroke="#352334" stroke-width="5"/>
+ <path d="M-72 -27Q0 -55 72 -27L60 70Q0 113 -60 70Z" fill="#d99b6e" stroke="#6f3a2b" stroke-width="3"/>
+ <path d="M-82 -44Q0 -70 82 -44L73 -12Q0 -28 -73 -12Z" fill="#9f2741" stroke="#d8d8e7" stroke-width="5"/>
+ <path d="M-18 -42L18 -42 32 -15 -32 -15Z" fill="#a3b2ca"/>
+ <path d="M-12 -29L0 -39 12 -29 0 -19Z" fill="none" stroke="#334155" stroke-width="3"/>
+ <path d="M-48 3Q-30 -8 -16 4M16 4Q32 -8 48 3" fill="none" stroke="#171019" stroke-width="7" stroke-linecap="round"/>
+ <ellipse cx="-32" cy="10" rx="8" ry="4" fill="#f8fafc"/><ellipse cx="32" cy="10" rx="8" ry="4" fill="#f8fafc"/>
+ <path d="M-17 49Q0 64 17 49" stroke="#6e2828" stroke-width="4" fill="none"/>
+ <path d="M-80 93Q0 58 80 93L112 178H-112Z" fill="#101827" stroke="#b4233e" stroke-width="7"/>
+ <path d="M-73 98Q-20 122 0 178Q28 122 73 98" fill="none" stroke="#e33b54" stroke-width="5"/>
+ <g fill="#ff7a1a" opacity=".8"><circle cx="-106" cy="-90" r="5"><animate attributeName="opacity" values=".2;1;.2" dur="2s" repeatCount="indefinite"/></circle><circle cx="108" cy="70" r="4"><animate attributeName="opacity" values="1;.2;1" dur="2.5s" repeatCount="indefinite"/></circle></g>
+</g>
+<!-- anime roster cards / each anime represented with motifs and labels -->
+<g font-family="monospace" font-size="13" font-weight="700">
+ <g transform="translate(54 46)"><rect width="174" height="54" rx="10" fill="#20141c" stroke="#ff8a29"/><text x="14" y="22" fill="#ffb35d">NARUTO</text><text x="14" y="41" fill="#f5d6c4" font-size="10">WILL OF FIRE</text></g>
+ <g transform="translate(244 46)"><rect width="174" height="54" rx="10" fill="#17142b" stroke="#9b69ff"/><text x="14" y="22" fill="#c4a2ff">SOLO LEVELING</text><text x="14" y="41" fill="#e0d7ff" font-size="10">SHADOW MONARCH</text></g>
+ <g transform="translate(434 46)"><rect width="148" height="54" rx="10" fill="#122433" stroke="#44c3ed"/><text x="14" y="22" fill="#75ddff">AO ASHI</text><text x="14" y="41" fill="#d4f4ff" font-size="10">FIELD VISION</text></g>
+ <g transform="translate(598 46)"><rect width="170" height="54" rx="10" fill="#221b15" stroke="#e8bd5a"/><text x="14" y="22" fill="#f4d27c">BLACK CLOVER</text><text x="14" y="41" fill="#fff0c5" font-size="10">NEVER GIVE UP</text></g>
+ <g transform="translate(54 440)"><rect width="174" height="54" rx="10" fill="#231517" stroke="#ff795b"/><text x="14" y="22" fill="#ff9c7b">ONE PIECE</text><text x="14" y="41" fill="#ffded4" font-size="10">GRAND LINE</text></g>
+ <g transform="translate(244 440)"><rect width="174" height="54" rx="10" fill="#111d34" stroke="#8db7ff"/><text x="14" y="22" fill="#a8c8ff">BLEACH</text><text x="14" y="41" fill="#e1ebff" font-size="10">SOUL SOCIETY</text></g>
+ <g transform="translate(434 440)"><rect width="170" height="54" rx="10" fill="#1b1b27" stroke="#bb9fff"/><text x="14" y="22" fill="#ccb2ff">MORE WORLDS</text><text x="14" y="41" fill="#eee6ff" font-size="10">ANIME MULTIVERSE</text></g>
+</g>
+<!-- left text -->
+<text x="56" y="170" fill="#FDBA74" font-family="monospace" font-size="14" letter-spacing="4">HIDDEN LEAF // DEVELOPER PROFILE</text>
+<text x="50" y="238" fill="#FFF7ED" font-family="Arial" font-size="57" font-weight="800">BHUVAN TEJA</text>
+<text x="56" y="278" fill="#C4B5FD" font-family="Arial" font-size="22" letter-spacing="5">PONAKALA</text>
+<path d="M56 301H690" stroke="url(#fire)" stroke-width="3"/>
+<text x="56" y="342" fill="#FDE7D6" font-family="monospace" font-size="18">AI &amp; DATA SCIENCE DEVELOPER</text>
+<text x="56" y="372" fill="#9DCDF0" font-family="monospace" font-size="15">AI / ML  •  DATA ENGINEERING  •  FULL-STACK</text>
+<text x="56" y="400" fill="#C4B5FD" font-family="monospace" font-size="15">AGENTIC AI  •  SOFTWARE SYSTEMS</text>
+<!-- drifting embers and chakra -->
+<g fill="#ff8a29" filter="url(#glow)">
+ <circle cx="700" cy="170" r="3"><animate attributeName="cy" values="170;125;170" dur="5s" repeatCount="indefinite"/></circle>
+ <circle cx="750" cy="340" r="4"><animate attributeName="cx" values="750;790;750" dur="4s" repeatCount="indefinite"/></circle>
+ <circle cx="680" cy="390" r="2"><animate attributeName="cy" values="390;345;390" dur="3s" repeatCount="indefinite"/></circle>
+</g>
+<g fill="none" stroke="#38bdf8" stroke-width="3" opacity=".9"><path d="M693 210l18 -18 18 18 -18 18Z"><animateTransform attributeName="transform" type="rotate" from="0 711 210" to="360 711 210" dur="12s" repeatCount="indefinite"/></path></g>
+<!-- bottom HUD -->
+<path d="M38 520H1242" stroke="#334155" stroke-width="2"/><path d="M38 520H420" stroke="url(#blue)" stroke-width="5" stroke-linecap="round"><animate attributeName="stroke-dasharray" values="0 1200;420 780;0 1200" dur="6s" repeatCount="indefinite"/></path>
+<text x="54" y="548" fill="#e8eaf6" font-family="monospace" font-size="12" letter-spacing="3">SHINOBI.MP4 // LIVE PROFILE</text>
+<text x="1218" y="548" text-anchor="end" fill="#a5b4fc" font-family="monospace" font-size="12">KONOHA • DUNGEON • GRAND LINE • SOUL SOCIETY</text>
+<rect x="14" y="14" width="1252" height="532" rx="18" fill="none" stroke="#334155" stroke-width="2"/>
+</svg>
